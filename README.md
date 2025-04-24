@@ -16,7 +16,7 @@
   ##
  
 <div> 
-  <a href="https://www.linkedin.com/in/maykon-brito" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/maykon-costa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/maykoncosta/maykoncosta/blob/output/github-contribution-grid-snake.svg)
  
